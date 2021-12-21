@@ -1,6 +1,6 @@
 # DailyStack 
 
- 매일 매일 스택을 쌓고, 다시 해결하며 성장하는 리포지토리 입니다!
+ 매일 스택을 쌓고, 이를 해결하며 성장하는 리포지토리 입니다!
  
  [dailystack](https://github.com/dailystack/dailystack "dailystack") 이란 Organization을 보고 벤치마킹 했습니다!
 

@@ -22,6 +22,6 @@ if(stack.empty()) {
 
 <br>
 
-<div style="align:center">
+<div align="center" >
 <h3> 어제보다 나은 내가 되자! 매순간 최선을 다하자! </h3>
 </div>
